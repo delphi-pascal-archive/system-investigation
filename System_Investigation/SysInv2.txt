@@ -1,0 +1,106 @@
+ +=============================================================================+
+ | SysInv2 created on 20.12.1998                By RicoSoft rico@mbox.4net.it  |
+ | last updated: 2.3.1 - 26.04.2000           Riccardo 'Rico' Pareschi, Italy  |
+ +-----------------------------------------------------------------------------+
+   RicoSoft web page is on     
+
+			www.4net.it/homepages/rico/ricosoft.html        
+
+   only this page of the entire site is in Italian & English and here you can 
+   found  others programs & components.
+ +-----------------------------------------------------------------------------+
+
+
+  Hi, Delphi developers!
+
+
+  SysInv was developed as a study.
+  First developed with Delphi 3 under Win95, developed and tested with Delphi 4 
+  and now under Delphi 5 on NT 4.0 Workstation with a new interface. Now I can't 
+  test this on Win98, but customers tell me it's work fine. 
+  If you made changes or corrections, please send it to me.
+
+						HAPPY DELPHI CODING !
+ +--------+
+ | SYSINV |
+ +--------+--------------------------------------------------------------------+
+  What SysInv2 do ?
+  Is only a viewer of a lot of Windows information. Is a programming excercise
+  and a shared code.
+  Every time I study something I try to add to this project.
+
+
+ +---------+
+ | WARNING |
+ +---------+-------------------------------------------------------------------+
+  >>>>> a friends tells me of an error loading the project: ImageIndex on the
+	TabSheets. I think this occours only in Delphi 3.
+
+
+ +--------------------+
+ | ABOUT THIS VERSION |
+ +--------------------+--------------------------------------------------------+
+  On this version: 2.3.1
+  . Added An AniCursor routine, Borland info
+  . Added Special Windows Folders retrieving, thanks to Helmut Schottmueller
+
+
+ +--------+
+ | NOTICE |
+ +--------+--------------------------------------------------------------------+
+  This is Freeware/Careware. I put it on the net for the other programmers.
+  I've write some small 'CareWare' programs and a lot of serious professional
+  applications. This routines are presents in my works.
+
+  This program & his code can be freely used and distributed in commercial and 
+  private environments, if you like, please put a credit for me into your 
+  About box....
+
+  The author assumes no liability for damages, direct or consequential, which
+  may result from the use of this code. You have the source code, so check 
+  it before using it, so the author accepts no responsibility for its use or 
+  misuse.
+
+  If you find it of interest or modify, if you have any questions, comments or 
+  suggestions, please send me an e-mail.
+
+  Please use, share & enjoy. Greetings, Rico.	
+
+ +------------+
+ | TO INSTALL |
+ +------------+----------------------------------------------------------------+
+  Unzip all files in a folder of your choice.
+ +-----------------------------------------------------------------------------+
+
+
+ +---------+
+ | HISTORY |
+ +---------+-------------------------------------------------------------------+
+ 26.03.2000 - 2.3.1
+ - Added An AniCursor routine
+ - Added Special Windows Folders retrieving
+
+ 10.01.2000 - 2.3.0
+ - Added BiosInfo
+ - Merged the units: SystemInfo, VolumeInfo, FileInfo, GenericInfo in GetInfo
+ - More comments
+ - Added Programs Path, Media Path info
+ - More help
+
+ 25.12.1999 - 2.2.1
+ - Recompiled under Delphi 5
+ - Little restyle
+ - Added FileInfo Tab & Unit
+ - Added Virtual Memory info on O.S. Info
+ - Minor bugs solved
+
+ 15.02.1999 - 2.0.1
+ - Added an Execute File function & Splash form (this must be enhanced)
+
+ 08.01.1999 - 2.0.0
+ - Added OnlyOneInstance code from an idea of Rob de Veij
+
+ 30.12.1998 - 2.0.0
+ - First release of Version 2
+ +-----------------------------------------------------------------------------+
+
